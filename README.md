@@ -14,7 +14,7 @@ Hey there! 👋 I'm **Midnight** (he/him), a passionate C# developer diving deep
 - **55+ Private Commissions**: Delivered custom C# solutions, all built inside of Unity.
   - Focused on gameplay systems, mechanics, and backend logic.
   - Integrated UI elements like HUDs, team management menus, and engaging start screens, AI's.
-- **2=3 Private Lua Commissions**
+- **2-3 Private Lua Commissions**
 - Developed a range of stuff like: **C#, Js and Python Discord bots**.
 
 
