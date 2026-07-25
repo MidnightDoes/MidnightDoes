@@ -1,4 +1,4 @@
-# Midnight's Portfolio (WIP)
+# About Me (WIP)
 - This is current work in progress want to redesign this using badges and stuff at some point, but it's not a massive issue currently.
 
 Hey there! 👋 I'm **Midnight** (he/him), a passionate C# developer diving deep into game development with Unity. I've been coding in C# since August 2024: over a year of hands-on experience. I love coding in the background, tinkering on side projects whenever inspiration strikes. And I'm always up for collaborating on fun projects!
